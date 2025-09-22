@@ -1,8 +1,8 @@
-This is a simple command-line calculator written in Python.
+# A simple command-line calculator written in Python.
 
 It acts as a REPL (Read-Eval-Print Loop), allowing you to enter expressions repeatedly until you decide to quit.
 
-#Usage
+## Usage
 
 Run the program
 
